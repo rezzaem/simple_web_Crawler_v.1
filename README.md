@@ -1,8 +1,8 @@
-# simple_web_Crawler_v.1
+# simple_web_Crawler_v.0.1
 for mid term project , term 2 , university of Gonabad
+
 made by :
-█▀█ █▀▀ ▀█ ▄▀█ ▄▀█ █▀▀ █▀▄▀█
-█▀▄ ██▄ █▄ █▀█ █▀█ ██▄ █░▀░█
+ℝ𝔼ℤ𝔸𝔸𝔼𝕄
 
 hello,
 welcome to the readme of " simple Web Crawler" app !
