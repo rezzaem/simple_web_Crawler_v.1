@@ -15,8 +15,10 @@ https://python.org/
 the librarys that use in this app :
 
 time = include main files of python - doesn't need to install
-system = same ..
+
+system = same 
 beautiful soap = command = pip install beautifulsoup4
+s
 urlopen = command = pip install urlopen
 
 
