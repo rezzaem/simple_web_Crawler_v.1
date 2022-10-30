@@ -16,7 +16,7 @@ the librarys that use in this app :
 
 time = include main files of python - doesn't need to install
 
-system = same
+beautiful soap = command = pip install beautifulsoup4
 
 beautiful soap = command = pip install beautifulsoup4
 
