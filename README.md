@@ -29,5 +29,4 @@ if any question , just email :
 emamhasanireza@gmail.com
 or
 instagram: @rezaa.em
-or
-Discord:REZAA#0290 ✨
+
